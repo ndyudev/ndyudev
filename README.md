@@ -24,6 +24,7 @@ const UserInformation = {
 ![](https://github-readme-stats.vercel.app/api?username=ndyudev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ndyudev&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndyudev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=ndyudev&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">📚 Languages and Tools:</h1>
 <p align="center">
@@ -32,7 +33,7 @@ const UserInformation = {
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ndyudev&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 
 
