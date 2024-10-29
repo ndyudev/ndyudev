@@ -9,7 +9,7 @@
 ```py
 const UserInformation = {
  pronouns: "He" | "Him",
-    askMeAbout: ["web developer"],
+    askMeAbout: ["Web developer"],
     technologies:{
         fronend: ["react-native","reactjs", "nextjs"],
         backend: ["nodejs", "express"],
