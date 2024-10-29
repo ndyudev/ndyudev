@@ -20,9 +20,10 @@ const UserInformation = {
 }
 ```
 
-[![committers.top badge](https://user-badge.committers.top/vietnam/hongducdev.svg)](https://user-badge.committers.top/vietnam/hongducdev) <img src="https://komarev.com/ghpvc/?username=hongducdev&label=Profile%20views&color=0e75b6&style=flat" alt="hongducdev" /> 
-
-
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ndyudev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ndyudev&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndyudev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <h1 align="center">📚 Languages and Tools:</h1>
 <p align="center">
@@ -30,10 +31,7 @@ const UserInformation = {
 
 </p>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ndyudev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ndyudev&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndyudev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 <footer align="center" >
   <img align="center" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
