@@ -23,18 +23,6 @@ const UserInformation = {
 [![committers.top badge](https://user-badge.committers.top/vietnam/hongducdev.svg)](https://user-badge.committers.top/vietnam/hongducdev) <img src="https://komarev.com/ghpvc/?username=hongducdev&label=Profile%20views&color=0e75b6&style=flat" alt="hongducdev" /> 
 
 
-<h1 align="center">📊 My Github Stats:</h1>
-
-<div align=center>
-    <img
-        width="396"
-        src="https://github-readme-stats.vercel.app/api?username=hongducdev&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
-    />
-    <img
-        width="396"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongducdev&show_icons=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
-    />
-</div>
 
 <h1 align="center">📚 Languages and Tools:</h1>
 <p align="center">
