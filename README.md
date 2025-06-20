@@ -1,7 +1,7 @@
 # 👨‍💻 Chau Nhat Duy | ndyudev
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73995275/222146888-2ac7f3cc-a14b-4b98-9bd2-16fa99ea11f8.png" width="500"/>
+  <img src="https://user-images.githubusercontent.com/73995275/222146888-2ac7f3cc-a14b-4b98-9bd2-16fa99ea11f8.png" width="1200"/>
 </div>
 
 <p align="center">
