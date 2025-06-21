@@ -56,7 +56,6 @@ Xin chào! Mình là **Châu Nhật Duy** (ndyudev), một lập trình viên we
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndyudev&theme=tokyonight&hide_border=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndyudev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
   <br/>
-  <a href="https://visitcount.itsvg.in/api?id=ndyudev&icon=1&color=0"><img src="https://visitcount.itsvg.in/api?id=ndyudev&icon=1&color=0"/></a>
 </p>
 
 ---
