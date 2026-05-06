@@ -1,16 +1,27 @@
-## Hi there 👋
+# CHAU NHAT DUY aka ndyudev <3
+==================
 
-<!--
-**ndyudev/ndyudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Love turning ideas into working products.  
+Currently building useful things for developers and communities.
 
-Here are some ideas to get you started:
+---------------
+Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+» Website       → https://studio.io.vn
+» Facebook      → https://facebook.com/ndyudev
+» Email         → chauunhatduyit@gmail.com
+
+--------------
+Skills & Tools
+
+» Backend:   Java, Spring Boot, NodeJS, ExpressJS
+» Frontend:  VueJS, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+» Databases: MySQL, MongoDB, Redis, Firebase, Supabase, Cloudinary
+» DevOps:    Docker, Git, Linux, Postman, Ubuntu
+
+
+Thanks for stopping by! :)
+
+Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
+
+Let's build something cool together <3
