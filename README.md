@@ -1,17 +1,19 @@
 # CHAU NHAT DUY aka ndyudev <3
-==================
 
-Love turning ideas into working products.  
+```bash
+
+Love turning ideas into working products.
 Currently building useful things for developers and communities.
 
----------------
+
 Connect With Me
 
-» Website       → https://studio.io.vn
-» Facebook      → https://facebook.com/ndyudev
-» Email         → chauunhatduyit@gmail.com
+» Website     -> https://studio.io.vn/
+» Facebook    -> https://facebook.com/ndyudev
+» Email       -> chauunhatduyit@gmail.com
 
---------------
+-----------------
+
 Skills & Tools
 
 » Backend:   Java, Spring Boot, NodeJS, ExpressJS
@@ -22,6 +24,6 @@ Skills & Tools
 
 Thanks for stopping by! :)
 
-Feel free to say hi, share ideas, or just grab a virtual coffee ☕︎
+Feel free to say hi, share ideas, or just grab a virtual coffee ☕
 
 Let's build something cool together <3
